@@ -1,2 +1,2 @@
-# ITIM
-Intro 2 Intermedia
+# ITIM GitHub practice
+I created this repository for practice with GitHub.
